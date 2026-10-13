@@ -41,7 +41,6 @@ The project demonstrates backend development using **Java, Spring Boot, Spring D
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
 - [Author](#-author)
-- [License](#-license)
 
 ---
 
